@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_text">"Приветствую!\nМеня зовут\n Леонид Скляров,\nэто приложение расскажет немного обо мне."</string>
+    <string name="plans_text">После 5 семестра я планирую активно проходить собеседования на позицию веб разработчика или разработчика мобильных приложений.</string>
+    <string name="degree_text_first_part">Я учусь на 3 курсе Университета ИТМО по направлению "Нейротехнологии и программирование".</string>
+    <string name="degree_text_second_part">Мне нравится веб-программирование и разработка мобильных приложений. Я знаю HTML, CSS, Java, JavaScript и немного Java EE и PHP. Также имеется небольшой опыт разработки веб-приложений с исспользованием вышеуказанных технологий. Вдобавок, работал с PSQL и MySQL.</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/firstFragment"
+        android:title="About me" />
+    <item
+        android:icon="@drawable/ic_baseline_school_24"
+        android:id="@+id/secondFragment"
+        android:title="Degree" />
+    <item
+        android:icon="@drawable/ic_baseline_sports_handball_24"
+        android:id="@+id/thirdFragment"
+        android:title="Hobby" />
+    <item
+        android:icon="@drawable/ic_baseline_check_24"
+        android:id="@+id/fourthFragment"
+        android:title="Plans" />
+    <item
+        android:icon="@drawable/ic_baseline_rss_feed_24"
+        android:id="@+id/fifthFragment"
+        android:title="Contacts" />
+</menu>
